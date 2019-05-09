@@ -2,11 +2,11 @@
 Verify_Email is a python script designed to check whether the given e-mail address is valid or not 
 
 
-#Installation
+# Installation
 
 
 
-#Recommended Python Version
+# Recommended Python Version
 
 
-#Version
+# Version
