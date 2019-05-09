@@ -13,6 +13,8 @@ git clone https://github.com/nickjan/Verify_Email.git
 # Recommended Python Version
 2.7+
 
+# How to Use
+python email_validation.py
 
 # Version
 1.0
