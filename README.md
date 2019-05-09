@@ -1,2 +1,12 @@
 # Verify_Email
-This script uses python2 that shows whether the given mail address is valid or Not.
+Verify_Email is a python script designed to check whether the given e-mail address is valid or not 
+
+
+#Installation
+
+
+
+#Recommended Python Version
+
+
+#Version
